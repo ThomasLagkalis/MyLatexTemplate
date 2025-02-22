@@ -4,7 +4,7 @@ Latex templates I currently use for academic purposes. The repo contains two tem
 
 - [Long Paper](https://github.com/ThomasLagkalis/MyLatexTemplate/tree/main/long_paper): For longer reports/writtings, contains table of contents, single page cover. 
 
-![long paper pic 1](/assets/latex_long1.png =50%x) ![long paper pic 2](/assets/latex_long2.png =50%x)
+![alt-text-1](/assets/latex_long1.png "title-1" =20%x) ![alt-text-2](/assets/latex_long2.png "title-2" =70%x)
 
 Also the sections and images are listed hierarchically in differents files and folders as shown bellow.
 
