@@ -6,6 +6,9 @@ Latex templates I currently use for academic purposes. The repo contains two tem
 
 ![long paper pic 1](/assets/latex_long1.png)
 ![long paper pic 2](/assets/latex_long2.png)
+
+Also the sections and images are listed hierarchically in differents files and folders as shown bellow.
+
 ![long paper pic 3](/assets/latex_long3.png)
 
 
